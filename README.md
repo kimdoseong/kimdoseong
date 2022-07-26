@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=timeAuto&height=300&section=header&text=KIM%20DOSEONG&fontSize=90)
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdoseong)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdoseong&layout=copact&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdoseong&layout=compact&theme=tokyonight)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spl87)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kimdoseong)
