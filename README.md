@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=timeAuto&height=300&section=header&text=KIM%20DOSEONG&fontSize=90)
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdoseong)](https://github.com/kimdoseong/github-readme-stats)
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
