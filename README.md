@@ -5,7 +5,7 @@
 
 
 ![Git Stat](https://github-readme-stats.vercel.app/api?username=kimdoseong&layout=copact&theme=radical)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spl87)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spl87&layout=copact&theme=radical)
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdoseong&layout=compact&theme=tokyonight&exclude_repo=kimdoseong.github.io)
