@@ -9,7 +9,6 @@
 
 <a href="https://solved.ac/spl87"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spl87" width="40%"/> </a>
 
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
