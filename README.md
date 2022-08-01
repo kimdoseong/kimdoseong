@@ -1,8 +1,6 @@
 <div align="center">
 <a> <img src="https://capsule-render.vercel.app/api?type=Soft&color=timeAuto&height=300&section=header&text=KIM%20DOSEONG&fontSize=90" </a>
 </div>
- 
-![header](https://capsule-render.vercel.app/api?type=Soft&color=timeAuto&height=300&section=header&text=KIM%20DOSEONG&fontSize=90)
 
 <h3 align="left"> Github Stats </h3>
 
