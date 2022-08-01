@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=timeAuto&height=300&section=header&text=KIM%20DOSEONG&fontSize=90)
 
   
-<h3 align="center"> Github Stats </h3>
+<h3 align="left"> Github Stats </h3>
 
 <a> <img src="https://github-readme-stats.vercel.app/api?username=kimdoseong&slayout=copact&theme=radical" width="50%"/> </a>
 <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdoseong&layout=compact&theme=tokyonight&exclude_repo=kimdoseong.github.io" width="42%"/> </a>
