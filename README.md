@@ -1,4 +1,7 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=timeAuto&height=300&section=header&text=KIM%20DOSEONG&fontSize=90)
+</div>
+
 
 <h3 align="left"> Github Stats </h3>
 
