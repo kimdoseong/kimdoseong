@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=timeAuto&height=300&section=header&text=KIM%20DOSEONG&fontSize=90)
-<br>
 
 <h3 align="center"> My Github Stats </h3>
 
-
 <a> <img src="https://github-readme-stats.vercel.app/api?username=kimdoseong&slayout=copact&theme=radical" width="50%"/> </a>
-<a href="https://solved.ac/spl87"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spl87" width="40%"/> </a>
+<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdoseong&layout=compact" width="40%"/> </a>
 
 <br>
 
+<a href="https://solved.ac/spl87"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spl87" width="40%"/> </a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdoseong&layout=compact&theme=tokyonight&exclude_repo=kimdoseong.github.io)
 
 
