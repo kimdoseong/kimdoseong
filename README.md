@@ -5,7 +5,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdoseong&layout=copact&theme=radical&width="100"&height="100")
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spl87)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spl87&width="100"&height="100")
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdoseong&layout=compact&theme=tokyonight&exclude_repo=kimdoseong.github.io)
