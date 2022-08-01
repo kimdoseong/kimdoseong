@@ -1,10 +1,12 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=timeAuto&height=300&section=header&text=KIM%20DOSEONG&fontSize=90)
 <br>
 
 <h3 align="center"> My Github Stats </h3>
 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdoseong&layout=copact&theme=radical)
+<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdoseong&layout=copact&theme=radical)
 </div>
 
 
