@@ -3,7 +3,7 @@
 <h3 align="center"> My Github Stats </h3>
 
 <a> <img src="https://github-readme-stats.vercel.app/api?username=kimdoseong&slayout=copact&theme=radical" width="50%"/> </a>
-<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdoseong&layout=compact&theme=tokyonight&Exclude=kimdoseong.github.io" width="42%"/> </a>
+<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdoseong&layout=compact&theme=tokyonight&Exclusive=kimdoseong.github.io" width="42%"/> </a>
 
 <h3 align="left"> My Baekjoon </h3>
 
