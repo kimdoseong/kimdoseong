@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=timeAuto&height=300&section=header&text=KIM%20DOSEONG&fontSize=90)
 
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
  <p align="center">
   <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>&nbsp
@@ -21,7 +23,7 @@
 
 <a href="https://solved.ac/spl87"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spl87" width="40%"/> </a>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+
 
 
 
