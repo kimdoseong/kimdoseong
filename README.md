@@ -3,12 +3,11 @@
 <h3 align="center"> My Github Stats </h3>
 
 <a> <img src="https://github-readme-stats.vercel.app/api?username=kimdoseong&slayout=copact&theme=radical" width="50%"/> </a>
-<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdoseong&layout=compact&theme=radical" width="42%"/> </a>
+<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdoseong&layout=compact&theme=tokyonight" width="42%"/> </a>
 
 <br>
 
 <a href="https://solved.ac/spl87"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spl87" width="40%"/> </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdoseong&layout=compact&theme=tokyonight&exclude_repo=kimdoseong.github.io)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
