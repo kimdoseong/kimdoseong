@@ -4,7 +4,7 @@
 <h3 align="center"> My Github Stats </h3>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdoseong&layout=copact&theme=radical&width="100"&height="100")
+<img src= "https://github-readme-stats.vercel.app/api?username=kimdoseong&layout=copact&theme=radical&width="100"&height="100")" />
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spl87&width="100"&height="100")
 <br>
 
