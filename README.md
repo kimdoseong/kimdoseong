@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=timeAuto&height=300&section=header&text=KIM%20DOSEONG&fontSize=90)
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdoseong&layout=copact&theme=radical)
+<h3 align="center"> My Github Stats </h3>
+<p align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdoseong&layout=copact&theme=radical)  </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdoseong&layout=compact&theme=tokyonight&exclude_repo=kimdoseong.github.io)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spl87)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-
-<p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp
