@@ -4,7 +4,6 @@
 
 <h3 align="left"> Github Stats </h3>
 
-<a> <img src="https://github-readme-stats.vercel.app/api?username=kimdoseong&slayout=copact&theme=radical" width="50%"/> </a>
 <a href="https://solved.ac/spl87"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spl87" width="40%"/> </a>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
